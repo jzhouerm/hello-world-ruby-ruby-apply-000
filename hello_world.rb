@@ -6,4 +6,3 @@ bomb_timer = 10
  bomb_timer = bomb_timer - 1
 end
 
-bomb_timer
